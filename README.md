@@ -16,9 +16,12 @@ The project was initiated as a means to become more proficient in OpenMP, a valu
 
 Graphs from my Macbook performance:
 Graph depicts the results for different numbers of trials.:
+Performance Metric is Megatrials/second where a megatrial is 1,000,000 trials.
+
 <img width="1072" alt="Screenshot 2023-10-22 at 9 41 29 AM" src="https://github.com/lucasrouchy/Monte_Carlo_Sim/assets/55973521/d4aa425f-e76b-48c7-a470-2b547f3a9ec6">
 
 Graphs illustrate the outcomes for different numbers of threads.
+
 <img width="963" alt="Screenshot 2023-10-22 at 9 41 04 AM" src="https://github.com/lucasrouchy/Monte_Carlo_Sim/assets/55973521/91e786c2-be51-41b1-8fbd-e546c12efdfc">
 
 ### Speedup and Parallel Fraction
